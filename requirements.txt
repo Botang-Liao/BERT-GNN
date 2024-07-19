@@ -1,0 +1,10 @@
+torch 
+torchvision 
+torch_geometric
+torchaudio
+networkx
+matplotlib
+numpy
+pandas
+sklearn
+nltk
